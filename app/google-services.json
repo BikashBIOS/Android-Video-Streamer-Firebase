@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193503938317",
+    "firebase_url": "https://video-streamer-4cfc6.firebaseio.com",
+    "project_id": "video-streamer-4cfc6",
+    "storage_bucket": "video-streamer-4cfc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193503938317:android:890147471189233076d244",
+        "android_client_info": {
+          "package_name": "com.example.videostreamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193503938317-i3u460661gme57v3l7gfoc0aasmlpis9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDzJ9mbw4X6GIDtDfKS61rMbkuaaAwIOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193503938317-i3u460661gme57v3l7gfoc0aasmlpis9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
